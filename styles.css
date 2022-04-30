@@ -111,10 +111,19 @@ body {
     width: 80%;
 }
 
+
+
 .call-section {
+    
+}
+
+.action-banner {
+    width: 80%;
     background-color: #3882F6;
     display: flex;
-
+    margin: 50px auto;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .footer-section {
