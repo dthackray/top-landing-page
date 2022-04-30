@@ -101,6 +101,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 100px 0;
 }
 
 .quote-section h5 {
@@ -109,6 +110,7 @@ body {
 
 .quote-section p, h5 {
     width: 80%;
+    margin: 0 auto;
 }
 
 
@@ -124,6 +126,8 @@ body {
     margin: 50px auto;
     align-items: center;
     justify-content: space-around;
+    border-radius: 5px;
+    color: white;
 }
 
 .footer-section {
