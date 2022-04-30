@@ -130,6 +130,13 @@ body {
     color: white;
 }
 
+.action-banner button {
+    color: white;
+    background-color: #3882F6;
+    border: 3px white solid;
+    border-radius: 5px;
+}
+
 .footer-section {
     background-color: #1F2937;
     color: #E5E7EB;
